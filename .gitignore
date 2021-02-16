@@ -1,0 +1,15 @@
+*~
+/releases
+/buildtools/appimage/love-prepared/
+/buildtools/appimage/AppRun-x86_64
+/buildtools/appimage/appimagetool-x86_64.AppImage
+/buildtools/appimage/squashfs-root
+
+/.vscode
+
+draw.lua
+game-states.lua
+mode-gameover.lua
+mode-mainmenu.lua
+mode-play.lua
+wrap.lua
